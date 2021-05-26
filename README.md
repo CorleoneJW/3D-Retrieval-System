@@ -2,7 +2,7 @@
 3D Retrieval System on ModelNet40.
 This is the last project of my bachelor career.
 
-##Background
+## Background
 This Model Retrieval System based on the imporved Fast Hybrid Cascade NetWork.
 Paper:https://arxiv.org/abs/2011.04522.
 Faster,Stronger.
@@ -10,7 +10,7 @@ Faster,Stronger.
 项目基于论文:https://arxiv.org/abs/2011.04522.
 对一阶段与二阶段分别进行改进，提升网络整体推理速度与准确度。
 
-##Environment
+## Environment
 <img src="https://img.shields.io/badge/Build-Success-green" />
 <img src="https://img.shields.io/badge/Vue-3.0-blue" />
 <img src="https://img.shields.io/badge/Django-3.1.7-blue" />
@@ -19,7 +19,7 @@ Faster,Stronger.
 <img src="https://img.shields.io/badge/Cuda-10.2.89-blue" />
 
 
-##Usage
+## Usage
 Pull down the project and install dependencies.
 cd frontend and run python start.py.
 cd frontend and run python npm run build.
@@ -27,7 +27,7 @@ cd backend and run python manage.py runserver 8081(If you wanna try another port
 Should prepare the data treated before.
 Contact me to get.
 
-##Contributor
+## Contributor
 DHU-WongJie
 
-##MIT License
+## MIT License
