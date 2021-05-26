@@ -5,8 +5,8 @@ This is the last project of my bachelor career.
 ## Preview
 <p>
   <span>Take a look and manipulate models.</span><br>
-  <img src="https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/readmesrc/library.gif"/>
-  <img src="https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/readmesrc/retrieval.gif"/>
+  <img src="https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/readmesrc/library.gif" alt="Model_Library"/>
+  <img src="https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/readmesrc/retrieval.gif" alt="Model_Retrieve"/>
 </p>
 
 ## Background
