@@ -31,5 +31,5 @@ Contact me to get.<br>
 ## Contributor
 DHU-WongJie<br>
 
-## MIT License
+## License
 <a href="https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/LICENSE">MIT License</a>
