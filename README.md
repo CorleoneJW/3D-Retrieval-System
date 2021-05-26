@@ -2,7 +2,7 @@
 3D Retrieval System on ModelNet40.
 This is the last project of my bachelor career.
 
-##Preview
+## Preview
 <img src="https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/readmesrc/%E6%A8%A1%E5%9E%8B%E5%BA%93.gif"/>
 <img src="https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/readmesrc/%E6%A8%A1%E5%9E%8B%E6%A3%80%E7%B4%A2.gif"/>
 
