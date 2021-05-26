@@ -11,13 +11,14 @@ Faster,Stronger.
 对一阶段与二阶段分别进行改进，提升网络整体推理速度与准确度。
 
 ## Environment
+<p>
 <img src="https://img.shields.io/badge/Build-Success-green" />
 <img src="https://img.shields.io/badge/Vue-3.0-blue" />
 <img src="https://img.shields.io/badge/Django-3.1.7-blue" />
 <img src="https://img.shields.io/badge/Python-3.6.13-blue" />
 <img src="https://img.shields.io/badge/Pytorch-1.8.1-blue" />
 <img src="https://img.shields.io/badge/Cuda-10.2.89-blue" />
-
+</p>
 
 ## Usage
 Pull down the project and install dependencies.
