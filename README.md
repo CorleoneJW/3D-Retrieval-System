@@ -4,10 +4,9 @@ This is the last project of my bachelor career.
 
 ## Preview
 <p>
-  <span>Model Library</span>
-  ![image]( https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/readmesrc/library.gif)
-  <span>Model Retrieve</span>
-  ![image]( https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/readmesrc/retrieval.gif)
+  <span>Take a look and manipulate models.</span><br>
+  ![]( https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/readmesrc/library.gif)
+  ![]( https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/readmesrc/retrieval.gif)
 </p>
 
 ## Background
@@ -22,10 +21,12 @@ Faster,Stronger.<br>
 <p>
 <img src="https://img.shields.io/badge/Build-Success-green" />
 <img src="https://img.shields.io/badge/Vue-3.0-blue" />
+<img src="https://img.shields.io/badge/Three.js-0.77.1-blue" />
 <img src="https://img.shields.io/badge/Django-3.1.7-blue" />
 <img src="https://img.shields.io/badge/Python-3.6.13-blue" />
 <img src="https://img.shields.io/badge/Pytorch-1.8.1-blue" />
 <img src="https://img.shields.io/badge/Cuda-10.2.89-blue" />
+<img src="https://img.shields.io/badge/Python-pcl-0.3-blue" />
 </p>
 
 ## Usage
