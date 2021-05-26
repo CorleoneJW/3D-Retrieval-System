@@ -26,7 +26,7 @@ Faster,Stronger.<br>
 <img src="https://img.shields.io/badge/Python-3.6.13-blue" />
 <img src="https://img.shields.io/badge/Pytorch-1.8.1-blue" />
 <img src="https://img.shields.io/badge/Cuda-10.2.89-blue" />
-<img src="https://img.shields.io/badge/Python-pcl-0.3-blue" />
+<img src="https://img.shields.io/badge/Python_pcl-0.3-blue" />
 </p>
 
 ## Usage
