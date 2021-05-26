@@ -21,17 +21,21 @@ Faster,Stronger.<br>
 </p>
 
 ## Usage
+Pull down the project and install dependencies.<br>
+cd data directory and run python start.py.<br>
 ```
-#Pull down the project and install dependencies.<br>
-#cd data directory and run python start.py.<br>
 $ python start.py
-#cd frontend and run npm run build.<br>
-$ npm run build
-#cd backend and run python manage.py runserver 8081(If you wanna try another port,please reset the port in frontend by yourself).<br>
-$python manage.py runserver 8081
-#Should prepare the data treated before.<br>
-#Contact me to get.<br>
 ```
+cd frontend and run npm run build.<br>
+```
+$ npm run build
+```
+#cd backend and run python manage.py runserver 8081(If you wanna try another port,please reset the port in frontend by yourself).<br>
+```
+$ python manage.py runserver 8081
+```
+Should prepare the data treated before.<br>
+Contact me to get.<br>
 
 ## Contributor
 DHU-WongJie<br>
