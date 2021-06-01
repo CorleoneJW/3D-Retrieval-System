@@ -32,16 +32,18 @@ Faster,Stronger.<br>
 ## Usage
 Pull down the project and install dependencies.<br>
 cd data directory and run python start.py.<br>
+default port:8000.<br>
 ```
 $ python start.py
 ```
 cd frontend and run npm run build.<br>
+default port:8081.<br>
 ```
 $ npm run build
 ```
 #cd backend and run python manage.py runserver 8081(If you wanna try another port,please reset the port in frontend by yourself).<br>
 ```
-$ python manage.py runserver 8081
+$ python manage.py runserver 8082
 ```
 Should prepare the data treated before.<br>
 Contact me to get.<br>
