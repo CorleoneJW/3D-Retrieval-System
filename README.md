@@ -36,10 +36,10 @@ default port:8000.<br>
 ```
 $ python start.py
 ```
-cd frontend and run npm run build.<br>
+cd frontend and run npm run dev.<br>
 default port:8081.<br>
 ```
-$ npm run build
+$ npm run dev
 ```
 #cd backend and run python manage.py runserver 8081(If you wanna try another port,please reset the port in frontend by yourself).<br>
 ```
