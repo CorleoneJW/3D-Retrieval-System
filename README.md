@@ -49,7 +49,7 @@ Should prepare the data treated before.<br>
 Contact me to get.<br>
 
 ## Contributor
-DHU-WongJie<br>
+DHU-WangJie<br>
 
 ## License
 <a href="https://github.com/CorleoneJW/3D-Retrieval-System/blob/main/LICENSE">MIT License</a>
